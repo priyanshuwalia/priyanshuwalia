@@ -95,11 +95,11 @@ Tapping into android development and trying to master websocket and WebRTC based
 </p>
 
 <p align="center">
-  <a href="https://alexmorgan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-alexmorgan.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  <a href="https://priyanshuwalia.dev">
+    <img src="https://img.shields.io/badge/Portfolio-priyanshuwalia.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/alexmorgan-dev">
+  <a href="https://linkedin.com/in/priyanshuwalia-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -107,17 +107,17 @@ Tapping into android development and trying to master websocket and WebRTC based
     <img src="https://img.shields.io/badge/Email-alex.morgan@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/alexmorgan-dev">
-    <img src="https://img.shields.io/badge/GitHub-alexmorgan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/priyanshuwalia-dev">
+    <img src="https://img.shields.io/badge/GitHub-priyanshuwalia--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexmorgan-dev&style=flat-square&color=6C3CE8&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=priyanshuwalia-dev&style=flat-square&color=6C3CE8&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/alexmorgan-dev?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/priyanshuwalia-dev?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/alexmorgan-dev&query=$.public_repos&style=flat-square&color=4F46E5&label=Public+Repos&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/priyanshuwalia-dev&query=$.public_repos&style=flat-square&color=4F46E5&label=Public+Repos&logo=github&logoColor=white" alt="Repos"/>
 </p>
 
 ---
@@ -125,7 +125,7 @@ Tapping into android development and trying to master websocket and WebRTC based
 ## ◈ About
 
 ```typescript
-const alexMorgan: Engineer = {
+const priyanshuwalia: Engineer = {
   role: "Senior Full Stack & Web3 Engineer",
   focus: [
     "Decentralised Applications",
@@ -225,7 +225,7 @@ NexaSwap is a production-grade, cross-chain DEX aggregator that routes swaps acr
 | **Performance** | Sub-200ms quote latency · 99.97% uptime · 0.12% average price improvement vs best single-DEX  |
 | **Security**    | Audited by Trail of Bits & Spearbit · 100% invariant test coverage · $250K bug bounty program |
 | **Impact**      | Finalist — ETHGlobal 2024 · Integrated by 3 institutional trading desks                       |
-| **Repository**  | [github.com/alexmorgan-dev/nexaswap](https://github.com/alexmorgan-dev/nexaswap)              |
+| **Repository**  | [github.com/priyanshuwalia-dev/nexaswap](https://github.com/priyanshuwalia-dev/nexaswap)      |
 
 </div>
 
@@ -245,14 +245,14 @@ VaultCore is a modular, ERC-4626 compliant asset management protocol designed fo
 
 <div align="center">
 
-| Attribute       | Detail                                                                                |
-| :-------------- | :------------------------------------------------------------------------------------ |
-| **Stack**       | Solidity · Foundry · TypeScript · React · Wagmi · FastAPI · Postgres · AWS ECS        |
-| **Scale**       | $65M peak TVL · 200+ institutional vault deployments · 14 integrated yield strategies |
-| **Performance** | Gas savings of 34% vs comparable protocols · Automated rebalancing every 6 hours      |
-| **Security**    | Audited by Code4rena (no criticals) · 98% branch coverage · Echidna fuzz suite        |
-| **Impact**      | Adopted by 3 DAO treasuries managing $40M+ combined · Featured on DeFiLlama           |
-| **Repository**  | [github.com/alexmorgan-dev/vaultcore](https://github.com/alexmorgan-dev/vaultcore)    |
+| Attribute       | Detail                                                                                     |
+| :-------------- | :----------------------------------------------------------------------------------------- |
+| **Stack**       | Solidity · Foundry · TypeScript · React · Wagmi · FastAPI · Postgres · AWS ECS             |
+| **Scale**       | $65M peak TVL · 200+ institutional vault deployments · 14 integrated yield strategies      |
+| **Performance** | Gas savings of 34% vs comparable protocols · Automated rebalancing every 6 hours           |
+| **Security**    | Audited by Code4rena (no criticals) · 98% branch coverage · Echidna fuzz suite             |
+| **Impact**      | Adopted by 3 DAO treasuries managing $40M+ combined · Featured on DeFiLlama                |
+| **Repository**  | [github.com/priyanshuwalia-dev/vaultcore](https://github.com/priyanshuwalia-dev/vaultcore) |
 
 </div>
 
@@ -279,7 +279,7 @@ ChainID is a privacy-preserving, decentralised identity infrastructure built on 
 | **Performance** | Proof generation in <800ms on client · Verification gas cost: ~210K units                       |
 | **Security**    | ZK circuit audit by Veridise · Soulbound transfer guards · GDPR-compatible off-chain data layer |
 | **Impact**      | Adopted by 2 DeFi protocols for compliant token-gating · Presented at Devcon 7 Bangkok          |
-| **Repository**  | [github.com/alexmorgan-dev/chainid](https://github.com/alexmorgan-dev/chainid)                  |
+| **Repository**  | [github.com/priyanshuwalia-dev/chainid](https://github.com/priyanshuwalia-dev/chainid)          |
 
 </div>
 
@@ -447,20 +447,20 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/alexmorgan-dev">
+  <a href="https://leetcode.com/priyanshuwalia-dev">
     <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201850%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/alexmorgan-dev">
+  <a href="https://www.geeksforgeeks.org/user/priyanshuwalia-dev">
     <img src="https://img.shields.io/badge/GeeksforGeeks-3★%20%7C%20500%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://www.hackerrank.com/alexmorgan-dev">
+  <a href="https://www.hackerrank.com/priyanshuwalia-dev">
     <img src="https://img.shields.io/badge/HackerRank-6★%20Gold%20%7C%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/alexmorgan_dev">
+  <a href="https://www.codechef.com/users/priyanshuwalia_dev">
     <img src="https://img.shields.io/badge/CodeChef-4★%20%7C%201850%2B%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
@@ -470,13 +470,13 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmorgan-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6C3CE8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshuwalia-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6C3CE8"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmorgan-dev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuwalia-dev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexmorgan-dev&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6C3CE8&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D6D8A&currStreakNum=8B5CF6&sideNums=8B5CF6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuwalia-dev&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6C3CE8&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D6D8A&currStreakNum=8B5CF6&sideNums=8B5CF6"/>
 </p>
 
 ---
@@ -484,7 +484,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexmorgan-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuwalia-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
@@ -492,7 +492,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexmorgan-dev&bg_color=0D0D1A&color=8B5CF6&line=6C3CE8&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%202024" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuwalia-dev&bg_color=0D0D1A&color=8B5CF6&line=6C3CE8&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%202024" width="98%"/>
 </p>
 
 ---
@@ -500,7 +500,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexmorgan-dev/alexmorgan-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/priyanshuwalia-dev/priyanshuwalia-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -542,17 +542,17 @@ open_to:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/alexmorgan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-alexmorgan--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/priyanshuwalia-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-priyanshuwalia--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/alexmorgan-dev">
-    <img src="https://img.shields.io/badge/GitHub-alexmorgan--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/priyanshuwalia-dev">
+    <img src="https://img.shields.io/badge/GitHub-priyanshuwalia--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://alexmorgan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-alexmorgan.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <a href="https://priyanshuwalia.dev">
+    <img src="https://img.shields.io/badge/Portfolio-priyanshuwalia.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
 
