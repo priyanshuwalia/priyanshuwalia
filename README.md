@@ -1,8 +1,12 @@
-![[windmill.gif]]
+<p align="center">
+  <img src="./windmill.gif" width="100%" alt="cinematic windmill loop" style="object-fit: cover;>
+</p>
+<br/>
 <p align="center">
   <samp>Tasteful software  / Decentralised Systems / Problem Soving </samp>
 </p>
-## ~/about me
+
+##  ~/about me
 Third-year IT undergraduate with hands-on experience in full-stack web development using TypeScript. Skilled in building scalable web applications and RESTful APIs with the MERN/PERN stack, and familiar with Docker and cloud deployment. Strong foundation in data structures, algorithms, and collaboration within distributed teams.
 ## ~/recent builds
 
@@ -10,7 +14,7 @@ Third-year IT undergraduate with hands-on experience in full-stack web developme
 - **[Vocabtion](https://github.com/priyanshuwalia/Vocabtion.git)** — a vocabulary management website that also quiz you similar to anki notes
 - **[FolderSketch](https://github.com/priyanshuwalia/FolderSketch.git)** — A simple tool to generate folder templates from text outlines, allowing you to quickly create project structures from plain text.
 
-< br />
+
 ## ~/stack
 <p align="center">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
