@@ -168,7 +168,7 @@ internship
 
 ---
 
-## ~/recent builds
+## Projects
 
 - **[FormBuddy](https://github.com/priyanshuwalia/FormBuddy.git)** — powerful and intuitive tool designed to streamline the process of creating and managing forms.
 - **[Vocabtion](https://github.com/priyanshuwalia/Vocabtion.git)** — a vocabulary management website that also quiz you similar to anki notes
