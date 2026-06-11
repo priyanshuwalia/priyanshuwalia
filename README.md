@@ -222,8 +222,6 @@ internship
 ## ◈ Current Focus
 
 ```yaml
-# Alex Morgan — Engineering Focus Q3 2025
-
 learning:
   - Open-Source Contribution
   - Solana
