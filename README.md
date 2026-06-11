@@ -82,77 +82,41 @@ Tapping into android development and trying to master websocket and WebRTC based
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Alex+Morgan+%7C+Software+Engineer;Full+Stack+%26+Web3+Engineer;Building+the+Decentralised+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=BFBABA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Priyanshu+Walia+%7C+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-6C3CE8?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/M.S%20Distributed%20Systems-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍%20San%20Francisco%2C%20CA-4F46E5?style=flat-square&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/B.Tech%20Information%20Technology-6C3CE8?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education"/>
+
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20New%20Delhi%2C%20IN-4F46E5?style=flat-square&logoColor=white" alt="Location"/>
+
 </p>
 
 <p align="center">
-  <a href="https://priyanshuwalia.dev">
-    <img src="https://img.shields.io/badge/Portfolio-priyanshuwalia.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=priyanshuwalia&style=flat-square&color=6C3CE8&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/priyanshuwalia-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/priyanshuwalia?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
-  <a href="mailto:alex.morgan@email.com">
-    <img src="https://img.shields.io/badge/Email-alex.morgan@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/priyanshuwalia-dev">
-    <img src="https://img.shields.io/badge/GitHub-priyanshuwalia--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshuwalia-dev&style=flat-square&color=6C3CE8&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/priyanshuwalia-dev?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/priyanshuwalia-dev&query=$.public_repos&style=flat-square&color=4F46E5&label=Public+Repos&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/priyanshuwalia&query=$.public_repos&style=flat-square&color=4F46E5&label=Public+Repos&logo=github&logoColor=white" alt="Repos"/>
 </p>
 
 ---
 
 ## ◈ About
 
-```typescript
-const priyanshuwalia: Engineer = {
-  role: "Senior Full Stack & Web3 Engineer",
-  focus: [
-    "Decentralised Applications",
-    "Smart Contracts",
-    "Distributed Systems",
-  ],
-  philosophy:
-    "Ship protocol-grade software. Build for trust, scale for billions.",
-  available: [
-    "Contract",
-    "Full-time",
-    "Protocol Advisory",
-    "Open Source Collaboration",
-  ],
-};
-```
-
-I am a senior software engineer with **6+ years** of experience architecting full-stack products and decentralised protocols across DeFi, NFT infrastructure, and Layer-2 ecosystems. I operate at the intersection of **blockchain engineering**, **distributed backend systems**, and **modern web frontends** — building products that are production-hardened, gas-optimised, and user-obsessed.
-
-My engineering philosophy centres on writing code that survives at scale: formally verifiable smart contracts, event-driven microservices, and frontends that feel native regardless of the chain underneath. I have contributed to protocols handling **$400M+ TVL**, engineered **cross-chain bridges**, and led teams shipping to mainnet on tight audit windows.
+Third-year IT undergraduate with hands-on experience in full-stack web development using JavaScript and
+TypeScript. Skilled in building scalable web applications and RESTful APIs with the MERN stack, and familiar with Docker and cloud
+deployment. Strong foundation in data structures, algorithms, and collaboration within distributed teams, seeking a full-stack developer
+internship
 
 **Open To:**
 
-- Senior / Staff Full Stack or Web3 Engineering roles
-- Smart Contract architecture & security advisory
-- Protocol design for DeFi / DAO tooling
-- Technical co-founder conversations at the pre-seed stage
+- Full Stack development roles.
+- Web-3 Developer roles.
+- Founding Developer of a startup
+- Open source collaboration on tooling, auditing, and SDKs
 
 ---
 
@@ -188,20 +152,20 @@ My engineering philosophy centres on writing code that survives at scale: formal
 
 ---
 
-## ◈ Web3 / Blockchain Expertise
+## ◈ Full Stack & Blockchain Expertise
 
 <div align="center">
 
-| Domain                         |  Proficiency   | Details                                                              |
-| :----------------------------- | :------------: | :------------------------------------------------------------------- |
-| Smart Contract Engineering     | ██████████ 98% | Solidity, Vyper, Foundry, Hardhat, OpenZeppelin, formal verification |
-| DeFi Protocol Design           | █████████░ 92% | AMMs, lending markets, yield aggregators, liquidation engines        |
-| Layer 2 & Rollups              | ████████░░ 85% | Optimism, Arbitrum, zkSync, EIP-4844, sequencer architecture         |
-| Cross-Chain Infrastructure     | ████████░░ 83% | Bridges, CCIP, LayerZero, Wormhole, IBC                              |
-| NFT & Token Standards          | ██████████ 96% | ERC-20/721/1155/4626/6900, metadata, royalties, soulbound            |
-| Web3 Frontend Integration      | █████████░ 90% | ethers.js, viem, wagmi, RainbowKit, WalletConnect v2                 |
-| Smart Contract Security        | ████████░░ 88% | Audit preparation, Slither, Echidna, invariant testing               |
-| Node & Indexing Infrastructure | ███████░░░ 78% | The Graph, Ponder, self-hosted archive nodes, event indexers         |
+| Domain                     |  Proficiency   | Details                                                                 |
+| :------------------------- | :------------: | :---------------------------------------------------------------------- |
+| Smart Contract Engineering | ██████████ 89% | Solidity, Solana, Hardhat, OpenZeppelin, testing, deployment,           |
+| Frontend Development       | ██████████ 96% | React, Next.js, TypeScript, Tailwind CSS, ShadCN UI, Responsive Design  |
+| Backend Development        | █████████░ 98% | Node.js, Express.js, REST APIs, Authentication, Middleware Architecture |
+| Database Engineering       | █████████░ 91% | PostgreSQL, MongoDB, Prisma ORM, Schema Design, Query Optimization      |
+| Full-Stack Architecture    | █████████░ 91% | End-to-end Application Design, API Integration, Monorepos, SSR          |
+| Authentication & Security  | █████████░ 97% | JWT, OAuth 2.0, Clerk, Session Management, Access Control               |
+| Cloud & Deployment         | ████████░░ 85% | Vercel, Docker, CI/CD Pipelines, Environment Management                 |
+| Developer Tooling & DevOps | ████████░░ 93% | Git, GitHub Actions, ESLint, Prettier, Automated Workflows              |
 
 </div>
 
@@ -444,7 +408,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 
 ---
 
-## ◈ Coding Profiles
+<!-- ## ◈ Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/priyanshuwalia-dev">
@@ -463,7 +427,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
   <a href="https://www.codechef.com/users/priyanshuwalia_dev">
     <img src="https://img.shields.io/badge/CodeChef-4★%20%7C%201850%2B%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -484,7 +448,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuwalia-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuwalia&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
@@ -492,7 +456,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuwalia-dev&bg_color=0D0D1A&color=8B5CF6&line=6C3CE8&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%202024" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuwalia&bg_color=0D0D1A&color=8B5CF6&line=6C3CE8&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%202024" width="98%"/>
 </p>
 
 ---
@@ -500,7 +464,7 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshuwalia-dev/priyanshuwalia-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/priyanshuwalia-dev/priyanshuwalia/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -511,24 +475,22 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 # Alex Morgan — Engineering Focus Q3 2025
 
 learning:
-  - EIP-4337: Account Abstraction patterns & bundler internals
-  - zkEVM equivalence levels and prover optimisation
-  - Rust systems programming for high-performance MEV bots
-
+  - Open-Source Contribution
+  - Solana
+  - Rust systems programming
 building:
-  - Intent-based DEX aggregation layer with solver auctions
-  - Privacy-preserving on-chain identity SDK (open source)
+  - Payment escrow Systems
   - DeFi analytics platform: real-time TVL, volume & risk dashboards
 
 exploring:
-  - Fully Homomorphic Encryption (FHE) for private smart contracts
-  - Restaking primitives: EigenLayer AVS design patterns
+  - TimescaleDB
+  - Complex Frontend like resizable dynamic candle-stick graphs etc.
   - MPC-based threshold signature schemes for wallet infrastructure
 
 open_to:
-  - Staff / Principal Engineer roles at DeFi or Web3 infra companies
-  - Protocol advisory for early-stage teams building on Ethereum / L2s
-  - Technical co-founder conversations (pre-seed, equity-based)
+  - Full Stack development roles.
+  - Web-3 Developer roles.
+  - Founding Developer of a startup
   - Open source collaboration on tooling, auditing, and SDKs
 ```
 
@@ -537,21 +499,21 @@ open_to:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:waliapriyanshu07@gmail.com@">
+  <a href="mailto:waliapriyanshu07@gmail.com@" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-waliapriyanshu07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-walia/">
+  <a href="https://www.linkedin.com/in/priyanshu-walia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-priyanshuwalia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/priyanshuwalia">
+  <a href="https://github.com/priyanshuwalia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-priyanshuwalia--181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://portfolio-nu-one-80.vercel.app/">
+  <a href="https://portfolio-nu-one-80.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-priyanshuwalia.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
@@ -559,9 +521,5 @@ open_to:
 ---
 
 <p align="center">
-  <em>"Trustless systems are not built on hope — they are built on proof."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5,7C3AED,8B5CF6,6C3CE8&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <em>"There are two parts to learning craftsmanship: knowledge and work."</em>
 </p>
