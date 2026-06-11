@@ -537,21 +537,21 @@ open_to:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:alex.morgan@email.com">
-    <img src="https://img.shields.io/badge/Gmail-alex.morgan@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:waliapriyanshu07@gmail.com@">
+    <img src="https://img.shields.io/badge/Gmail-waliapriyanshu07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshuwalia-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-priyanshuwalia--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/priyanshu-walia/">
+    <img src="https://img.shields.io/badge/LinkedIn-priyanshuwalia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/priyanshuwalia-dev">
-    <img src="https://img.shields.io/badge/GitHub-priyanshuwalia--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/priyanshuwalia">
+    <img src="https://img.shields.io/badge/GitHub-priyanshuwalia--181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://priyanshuwalia.dev">
+  <a href="https://portfolio-nu-one-80.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-priyanshuwalia.dev-6C3CE8?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
