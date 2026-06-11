@@ -77,9 +77,8 @@ Tapping into android development and trying to master websocket and WebRTC based
   <samp>• based in Delhi •</samp>
 </p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3CE8,8B5CF6,7C3AED,4F46E5&height=120&section=header&animation=fadeIn" width="100%"/>
+  <img src="./windmill.gif" width="100%" alt="cinematic windmill loop" style="object-fit: cover;>
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=BFBABA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Priyanshu+Walia+%7C+Software+Developer" alt="Typing SVG" />
@@ -88,8 +87,6 @@ Tapping into android development and trying to master websocket and WebRTC based
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20Information%20Technology-6C3CE8?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education"/>
-
-&nbsp;
 <img src="https://img.shields.io/badge/📍%20New%20Delhi%2C%20IN-4F46E5?style=flat-square&logoColor=white" alt="Location"/>
 
 </p>
