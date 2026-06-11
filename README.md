@@ -470,13 +470,13 @@ Full stack engineer on the Payments Core team, responsible for the checkout SDK,
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshuwalia-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6C3CE8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshuwalia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6C3CE8"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuwalia-dev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuwalia&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuwalia-dev&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6C3CE8&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D6D8A&currStreakNum=8B5CF6&sideNums=8B5CF6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuwalia&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6C3CE8&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D6D8A&currStreakNum=8B5CF6&sideNums=8B5CF6"/>
 </p>
 
 ---
