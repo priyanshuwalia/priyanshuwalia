@@ -74,5 +74,5 @@ Tapping into android development and trying to master websocket and WebRTC based
 <br />
 
 <p align="center">
-  <samp>based in Delhi •</samp>
+  <samp>• based in Delhi •</samp>
 </p>
