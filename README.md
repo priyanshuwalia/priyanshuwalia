@@ -117,56 +117,6 @@ internship
 
 ---
 
-## ◈ Tech Stack
-
-<p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,typescript,rust,go,python,js&theme=dark&perline=8" />
-</p>
-
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,graphql,wagmi&theme=dark&perline=8" />
-</p>
-
-<p align="center">
-  <strong>Backend &amp; Databases</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis,mongodb&theme=dark&perline=8" />
-</p>
-
-<p align="center">
-  <strong>Cloud, DevOps &amp; Tooling</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,terraform,grafana&theme=dark&perline=8" />
-</p>
-
----
-
-## ◈ Full Stack & Blockchain Expertise
-
-<div align="center">
-
-| Domain                     |  Proficiency   | Details                                                                 |
-| :------------------------- | :------------: | :---------------------------------------------------------------------- |
-| Smart Contract Engineering | ███████░░░ 89% | Solidity, Solana, Hardhat, OpenZeppelin, testing, deployment,           |
-| Frontend Development       | ██████████ 96% | React, Next.js, TypeScript, Tailwind CSS, ShadCN UI, Responsive Design  |
-| Backend Development        | ██████████ 98% | Node.js, Express.js, REST APIs, Authentication, Middleware Architecture |
-| Database Engineering       | █████████░ 91% | PostgreSQL, MongoDB, Prisma ORM, Schema Design, Query Optimization      |
-| Full-Stack Architecture    | █████████░ 91% | End-to-end Application Design, API Integration, Monorepos, SSR          |
-| Authentication & Security  | ██████████ 97% | JWT, OAuth 2.0, Clerk, Session Management, Access Control               |
-| Cloud & Deployment         | ████████░░ 85% | Vercel, Docker, CI/CD Pipelines, Environment Management                 |
-| Developer Tooling & DevOps | █████████░ 93% | Git, GitHub Actions, ESLint, Prettier, Automated Workflows              |
-
-</div>
-
----
 
 ## Projects
 
@@ -195,29 +145,6 @@ internship
   </a>
 </p> -->
 
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshuwalia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6C3CE8"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuwalia&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuwalia&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6C3CE8&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D6D8A&currStreakNum=8B5CF6&sideNums=8B5CF6"/>
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuwalia&bg_color=0D0D1A&color=8B5CF6&line=6C3CE8&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%202024" width="98%"/>
-</p>
-
----
 
 ## ◈ Current Focus
 
